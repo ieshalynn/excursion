@@ -1,16 +1,12 @@
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
 h1 {
   font-family: Verdana;
   font-weight: Normal;
   font-size: 50px;
   color: white;
-  text-align: center;
-}
-a {
-  color: Aquamarine;
-  font-size: 16px;
-}
-html {
-  background-color: Black;
   text-align: center;
 }
 h2 {
@@ -24,6 +20,10 @@ h3 {
   font-size: 21px;
   color: gray;
   font-weight: normal;
+}
+html {
+  background-color: Black;
+  text-align: center;
 }
 .excursion {
   text-align: right;
